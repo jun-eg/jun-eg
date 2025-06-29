@@ -14,4 +14,4 @@
 
 [<img alt="twitter" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter"/>](https://x.com/gu_chiy)
 [<img alt="Discord" src="https://skillicons.dev/icons?theme=dark&perline=7&i=discord"/>](https://discord.com/users/jun_chiy)
-[<img alt="Gmail" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gmail"/>](mailto:jiangkourun.email@gmail.com)
+[<img alt="Gmail" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gmail"/>](mailto:jiangkourun@gmail.com)
