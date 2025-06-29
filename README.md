@@ -1,6 +1,6 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 
-## <img src="photos/jun-eg.png">
+## <img src="photos/jun-eg.png" height="50">
 
 <br>
 
