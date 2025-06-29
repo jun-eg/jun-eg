@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p align="center">
   <img src="photos/jun-eg.png" height="100" alt="Jun">
-</div>
+</p>
 
 <br>
 
