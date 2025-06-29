@@ -1,20 +1,17 @@
-<!-- 2. プロフィールや連絡先を変更 -->
-
-## <img src="photos/jun-eg.png" height="50">
-
-<br>
-
-## 🌱 Skills
-
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,python,docker" />
-<br>
-
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-
-## 🏃‍♀️ Activities
-
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=jun-eg&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-eg&theme=vue-dark&layout=compact" />
+<div style="text-align: center;">
+  <img src="photos/jun-eg.png" height="100" alt="Jun">
 </div>
+
+<br>
+
+## 🐾 Skills
+
+<img alt="Skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,c,ts,react,nodejs,next,nest,docker,raspberrypi" />
+
+<br>
+
+## 🐾 links
+
+[<img alt="twitter" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter"/>](https://x.com/gu_chiy)
+[<img alt="Discord" src="https://skillicons.dev/icons?theme=dark&perline=7&i=discord"/>](https://discord.com/users/jun_chiy)
+[<img alt="Gmail" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gmail"/>](mailto:jiangkourun.email@gmail.com)
