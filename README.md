@@ -10,7 +10,7 @@
 
 <br>
 
-## 🐾 links
+## 🐾 Links
 
 [<img alt="twitter" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter"/>](https://x.com/gu_chiy)
 [<img alt="Discord" src="https://skillicons.dev/icons?theme=dark&perline=7&i=discord"/>](https://discord.com/users/jun_chiy)
