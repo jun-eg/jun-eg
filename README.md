@@ -6,7 +6,7 @@
 
 ## 🐾 Skills
 
-<img alt="Skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,c,php,ts,react,nodejs,next,nest,docker,raspberrypi,postgres,gcp,aws,githubactions" />
+<img alt="Skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,c,php,ts,react,nodejs,next,nest,docker,raspberrypi,postgres,gcp,aws,gitlab,githubactions" />
 
 <br>
 
